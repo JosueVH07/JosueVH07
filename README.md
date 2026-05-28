@@ -165,14 +165,12 @@ Me gusta participar en proyectos donde pueda aportar valor, mejorar experiencias
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Contáctame_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josuevh/)
 [![Gmail](https://img.shields.io/badge/Envíame_un_correo-DB4437?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuevelazquez0704@gmail.com)
 
 </div>
 
-
 <div align="center">
-  
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
